@@ -43,9 +43,7 @@ const homeScreenStylesheet = StyleSheet.create({
 const BuggyScreen = (_props) => {
     return (
         <View style={buggedScreenStylesheet.wrapper}>
-            <View style={buggedScreenStylesheet.header}>
-                <Text>Without translucent status bar</Text>
-            </View>
+            <View style={buggedScreenStylesheet.header} />
             <ScrollView style={buggedScreenStylesheet.content}>
                 <Text>{text}</Text>
             </ScrollView>
