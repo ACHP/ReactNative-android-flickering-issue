@@ -127,7 +127,7 @@ Here are a table of comparison to show how strange this bug is :
 Using the AndroidStudio layout inspector tools, we can't find any 'View' that would create a kind of mask above the screen ...
 
 <img width="320" src="https://raw.githubusercontent.com/ACHP/ReactNative-android-flickering-issue/master/gifs/LayoutInspector.png"/> 
-
+The Layout inspection file can be downloaded [here](https://github.com/ACHP/ReactNative-android-flickering-issue/raw/master/gifs/com.bugrnnavflickering_2020.09.11_12.42.li)
 
 ## Todos ##
  - [x] Buy an android phone ( xiaomi Mi9T )
