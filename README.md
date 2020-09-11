@@ -8,8 +8,8 @@ When scrolling in a scrollview, the content randomly and partially disappear and
 <table>
      <thead>
             <tr>
-                <th colspan="2">The bug</th>
-                <th colspan="2">Expected behavior</th>
+                <th>The bug</th>
+                <th>Expected behavior</th>
             </tr>
         </thead>
         <tbody>
@@ -63,8 +63,8 @@ Here are a table of comparison to show how strange this bug is :
 <table>
      <thead>
             <tr>
-                <th colspan="2">Without the HomeScreen</th>
-                <th colspan="2">With the HomeScreen</th>
+                <th>Without the HomeScreen</th>
+                <th>With the HomeScreen</th>
             </tr>
         </thead>
         <tbody>
@@ -78,8 +78,8 @@ Here are a table of comparison to show how strange this bug is :
 <table>
      <thead>
             <tr>
-                <th colspan="2">Header with different color from `wrapper`</th>
-                <th colspan="2">with same color</th>
+                <th>Header with different color from `wrapper`</th>
+                <th>with same color</th>
             </tr>
         </thead>
         <tbody>
@@ -93,8 +93,8 @@ Here are a table of comparison to show how strange this bug is :
 <table>
      <thead>
             <tr>
-                <th colspan="2">Header width < 93</th>
-                <th colspan="2">Header width > 93</th>
+                <th>Header width < 93</th>
+                <th>Header width > 93</th>
             </tr>
         </thead>
         <tbody>
@@ -111,8 +111,8 @@ Here are a table of comparison to show how strange this bug is :
 <table>
      <thead>
             <tr>
-                <th colspan="2">without zIndex</th>
-                <th colspan="2">with zIndex > 0</th>
+                <th>without zIndex</th>
+                <th>with zIndex > 0</th>
             </tr>
         </thead>
         <tbody>
