@@ -123,6 +123,12 @@ Here are a table of comparison to show how strange this bug is :
         </tbody>
 </table>
 
+## Layout inspection ##
+Using the AndroidStudio layout inspector tools, we can't find any 'View' that would create a kind of mask above the screen ...
+
+<img width="320" src="https://raw.githubusercontent.com/ACHP/ReactNative-android-flickering-issue/master/gifs/LayoutInspector.png"/> 
+
+
 ## Todos ##
  - [x] Buy an android phone ( xiaomi Mi9T )
  - [x] Create a demo project without react navigation
